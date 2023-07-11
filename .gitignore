@@ -1,0 +1,6 @@
+tmp/**
+*checkpoint.py
+secrets/
+calibration/
+*.DS_Store
+.ipynb_checkpoints

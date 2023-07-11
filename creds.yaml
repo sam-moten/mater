@@ -1,0 +1,21 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    manon:
+      email: mvignier@moten-tech.com
+      name: manon
+      password: xxxx
+    max:
+      email: max@max.com
+      name: max
+      password: $2b$12$q2M2/ao1.tfUqNKZiLYoZua/VuemO1CsmEcSCfTsKII.rq637Lrxy
+    sami:
+      email: sassili@moten-tech.com
+      name: sami
+      password: $2b$12$IWOyq01OXAEyYy45TOB4..sU4eiDWlvXMk.0jojS0ZxzIdYczEGdW
+preauthorized:
+  emails:
+  - sassili@moten-tech.com
